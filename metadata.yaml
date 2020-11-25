@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '52376'
     url: http://www.gutenberg.org/2009/agents/52376
     wikipedia: https://en.wikipedia.org/wiki/Murphy_Anderson
+covers:
+- cover_type: archival
+  image_path: 63751-h/images/cover.jpg
 creator:
   author:
     agent_name: Matthews, W. J. (William J.)
@@ -18,6 +21,8 @@ creator:
     gutenberg_agent_id: '52586'
     url: http://www.gutenberg.org/2009/agents/52586
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63751#The-Derelict
 gutenberg_issued: '2020-11-13'
 gutenberg_type: Text
 identifiers:
