@@ -1,0 +1,36 @@
+_repo: The-Derelict_63751
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Anderson, Murphy
+    aliases:
+    - Anderson, M. C.
+    - Anderson, Murphy Clyde, Jr.
+    birthdate: 1926
+    deathdate: 2015
+    gutenberg_agent_id: '52376'
+    url: http://www.gutenberg.org/2009/agents/52376
+    wikipedia: https://en.wikipedia.org/wiki/Murphy_Anderson
+creator:
+  author:
+    agent_name: Matthews, W. J. (William J.)
+    alias: Matthews, William J.
+    gutenberg_agent_id: '52586'
+    url: http://www.gutenberg.org/2009/agents/52586
+description: ''
+gutenberg_issued: '2020-11-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63751'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mars (Planet) -- Fiction'
+- !lcsh 'Drug addicts -- Fiction'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- GITenberg
+title: The Derelict
+url: http://www.gutenberg.org/ebooks/63751
